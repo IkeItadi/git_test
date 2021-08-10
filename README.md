@@ -1,2 +1,2 @@
 # git_test
-test repository for various project
+test repository for various projects
